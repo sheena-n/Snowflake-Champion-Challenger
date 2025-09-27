@@ -64,6 +64,8 @@ The framework creates realistic temporal datasets with:
 - `location_risk_score`: Geographic risk (0-1)
 - `approved`: Target variable (0=denied, 1=approved)
 
+
+
 ## 🔍 Troubleshooting
 
 ### Common Issues
