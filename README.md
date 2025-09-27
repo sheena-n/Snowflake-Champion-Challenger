@@ -43,9 +43,9 @@ Weeks 10-12: Test Data (Champion)
 Weeks 3-12 : Training Data (Challenger)
 Weeks 13-15: Test Data (Challenger)
 Weeks 16-19: Evaluation Data (Hold-out for comparison)
-
+```
 ## 📊 Dataset Structure
-
+```
 The framework creates realistic temporal datasets with:
 - **Time-based splits** (no data leakage)
 - **Concept drift** simulation (models degrade over time)
@@ -63,9 +63,7 @@ The framework creates realistic temporal datasets with:
 - `education_score`: Education level (1-5)
 - `location_risk_score`: Geographic risk (0-1)
 - `approved`: Target variable (0=denied, 1=approved)
-
-
-
+```
 ## 🔍 Troubleshooting
 
 ### Common Issues
